@@ -19,6 +19,7 @@ public class Main {
                 System.out.println("불합격");
             }
         }
+
         else{
             System.out.println("불합격");
         }
